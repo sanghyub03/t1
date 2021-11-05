@@ -1,0 +1,6 @@
+body { background: #FFF7D4; }
+table { background: #E0FF8B; border: 2px solid pink; width: 90%; }
+td, th {  border: 2px solid pink; padding: 8px; cursor: pointer; }
+caption { font-size: 25px; line-height: 160%; }
+#err { color: red; font-weight: bold; }
+tr:hover { background: green;  color: white; }
